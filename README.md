@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://github.com/jstrieb/github-stats">
+
+![](https://github.com/marcellof23/marcello_f/blob/master/generated/overview.svg)
+![](https://github.com/marcellof23/marcello_f/blob/master/generated/languages.svg)
+
+</a>
