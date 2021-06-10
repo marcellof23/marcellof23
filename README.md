@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/marcellof23">
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcellof23&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://github.com/marcellof23/marcello_f/blob/master/generated/overview.svg)
 ![](https://github.com/marcellof23/marcello_f/blob/master/generated/languages.svg)
 
