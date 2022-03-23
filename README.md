@@ -14,9 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/marcellof23">
-
-![](https://github.com/marcellof23/readme-stats/blob/master/generated/overview.svg)
-![](https://github.com/marcellof23/readme-stats/blob/master/generated/languages.svg)
-</a>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marcellof23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
