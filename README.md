@@ -1,7 +1,10 @@
-### Hi there 👋
+# Hi there i'm cello 👋
+I'm an undergraduate student from STEI ITB. First and foremost, I enjoy writing code. Software engineer in my opinion is a never-ending challenge that I am passionately engaged in solving. I also have been obsessed to explore and research about new technology that is recently build every day on the internet and manage to use it to solve practical problems on developing software. 
+
+
+# My Tech Stack
 
 ### Programming Language
-
  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -42,5 +45,19 @@
   ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
- 
+
+## My Github Stats
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marcellof23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <img src="https://github-readme-stats.vercel.app/api?username=marcellof23&amp;show_icons=true&amp;count_private=true&amp;theme=dracula" alt="GitHub Stats">
+ <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=marcellof23&langs_count=8&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dracula" alt="GitHub Stats">
+<p>
+
+## Find me on social media:
+<div>
+  <p align = "center">
+<a href="https://www.linkedin.com/in/marcello-faria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.instagram.com/mar_cellof " target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="mailto:01faria.marcello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+
+
