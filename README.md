@@ -12,6 +12,7 @@ I'm an undergraduate student from STEI ITB. First and foremost, I enjoy writing 
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
  ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
+ <img src="https://img.shields.io/badge/-R-276DC3?logo=R&logoColor=white&style=for-the-badge">
 
  ### Web Development 
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
