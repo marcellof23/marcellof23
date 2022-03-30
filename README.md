@@ -1,5 +1,5 @@
 # Hi there i'm cello 👋
-I'm an undergraduate student from STEI ITB. First and foremost, I enjoy writing code. Software engineer in my opinion is a never-ending challenge that I am passionately engaged in solving. I also have been obsessed to explore and research about new technology that is recently build every day on the internet and manage to use it to solve practical problems on developing software. 
+I'm an undergraduate student from STEI ITB. First and foremost, I enjoy writing code. Software engineer in my opinion is a never-ending challenge that I am passionately engaged in solving. I also have been obsessed to explore and research about new technology that is recently build every day on the internet and manage to use it to solve practical problems on developing software. In my free time, I love to solve and learn competitive programming and also explore treding technology.
 
 
 # My Tech Stack
