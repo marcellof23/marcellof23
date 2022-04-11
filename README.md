@@ -62,4 +62,5 @@ I'm an undergraduate student from STEI ITB. First and foremost, I enjoy writing 
 <a href="mailto:01faria.marcello@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   </p>
 
+ ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marcellof23.marcellof23)
 
