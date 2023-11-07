@@ -48,11 +48,6 @@ I'm an undergraduate student from STEI ITB. First and foremost, I enjoy writing 
   ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
   ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 
-## My Github Stats
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=marcellof23&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- <img src="https://github-readme-stats.vercel.app/api?username=marcellof23&amp;show_icons=true&amp;count_private=true&amp;theme=dracula" alt="GitHub Stats">
-<p>
-
 ## Find me on social media:
 <div>
   <p align = "center">
